@@ -1,8 +1,5 @@
-# Adapted from:
-# https://github.com/github/gitignore/blob/master/KiCad.gitignore
-
-# For PCBs designed using KiCad: http://www.kicad-pcb.org/
-# Format documentation: http://kicad-pcb.org/help/file-formats/
+# For PCBs designed using KiCad: https://www.kicad.org/
+# Format documentation: https://kicad.org/help/file-formats/
 
 # Temporary files
 *.000
@@ -10,6 +7,7 @@
 *.bck
 *.kicad_pcb-bak
 *.kicad_sch-bak
+*-backups
 *.kicad_prl
 *.sch-bak
 *~
@@ -18,7 +16,8 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
-/build
+~*.lck
+\#auto_saved_files#
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -27,15 +26,6 @@ fp-info-cache
 *.dsn
 *.ses
 
-# Footprint association file (exported from Pcbnew)
-*.cmp
-
 # Exported BOM files
 *.xml
 *.csv
-*.tsv
-
-# Misc
-*.log
-*.raw
-.svg2shenzhen-cache
