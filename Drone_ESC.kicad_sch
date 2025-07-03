@@ -9286,7 +9286,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2"
 			(at 26.67 45.72 0)
 			(effects
 				(font
@@ -10076,7 +10076,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Shunt_Isabellenhuette_BVR4026"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 165.354 69.596 90)
 			(effects
 				(font
@@ -10351,7 +10351,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Shunt_Isabellenhuette_BVR4026"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 142.494 60.706 90)
 			(effects
 				(font
@@ -11084,7 +11084,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
 			(at 248.92 20.32 0)
 			(effects
 				(font
@@ -11223,7 +11223,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Shunt_Isabellenhuette_BVR4026"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 120.904 60.706 90)
 			(effects
 				(font
@@ -11293,7 +11293,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
 			(at 197.866 106.934 90)
 			(effects
 				(font
@@ -11629,7 +11629,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 91.694 98.044 90)
 			(effects
 				(font
@@ -13037,7 +13037,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Shunt_Isabellenhuette_BVR4026"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 120.904 69.596 90)
 			(effects
 				(font
@@ -13697,7 +13697,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 220.726 37.084 90)
 			(effects
 				(font
@@ -14296,7 +14296,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SMF"
 			(at 92.71 158.75 0)
 			(effects
 				(font
@@ -14365,7 +14365,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 75.946 160.274 90)
 			(effects
 				(font
@@ -14502,7 +14502,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Shunt_Isabellenhuette_BVR4026"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 142.494 69.596 90)
 			(effects
 				(font
@@ -14554,7 +14554,7 @@
 		(dnp no)
 		(uuid "a3e35ea0-1a42-4212-a937-8eea9a16ea36")
 		(property "Reference" "C20"
-			(at 32.512 106.934 0)
+			(at 32.766 107.442 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14562,8 +14562,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 33.528 109.982 0)
+		(property "Value" "2.2p"
+			(at 32.766 109.982 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14640,7 +14640,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 75.946 170.434 90)
 			(effects
 				(font
@@ -15041,7 +15041,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 213.106 26.924 90)
 			(effects
 				(font
@@ -15108,7 +15108,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_Vishay_IHLP-2525"
 			(at 81.28 153.67 0)
 			(effects
 				(font
@@ -15630,7 +15630,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 148.844 108.204 90)
 			(effects
 				(font
@@ -16100,7 +16100,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Shunt_Isabellenhuette_BVR4026"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 165.354 60.706 90)
 			(effects
 				(font
@@ -16355,7 +16355,7 @@
 		(dnp no)
 		(uuid "eb95e03b-4e64-435d-8613-94efac3312b7")
 		(property "Reference" "C16"
-			(at 32.004 68.834 0)
+			(at 30.48 65.532 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16363,8 +16363,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 32.004 71.374 0)
+		(property "Value" "2.2p"
+			(at 30.48 68.072 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16512,7 +16512,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
 			(at 257.556 106.934 90)
 			(effects
 				(font
@@ -16650,7 +16650,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 148.844 95.504 90)
 			(effects
 				(font
@@ -16785,7 +16785,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
 			(at 228.346 106.934 90)
 			(effects
 				(font
