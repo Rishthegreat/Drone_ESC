@@ -11014,7 +11014,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Drone_ESC_Local_Footprints:Power_Pads"
 			(at 254 41.91 0)
 			(effects
 				(font
@@ -12090,7 +12090,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Drone_ESC_Local_Footprints:Motor_Pad"
 			(at 224.79 144.78 0)
 			(effects
 				(font
@@ -13767,7 +13767,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Drone_ESC_Local_Footprints:Motor_Pad"
 			(at 224.79 129.54 0)
 			(effects
 				(font
@@ -16236,7 +16236,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Drone_ESC_Local_Footprints:Motor_Pad"
 			(at 224.79 137.16 0)
 			(effects
 				(font
